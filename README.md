@@ -1,8 +1,8 @@
-# Auto Garden
+# Microblog
 
 ## APIs used
 - Flask
-- React
+
 
 ## Comands
 activate
