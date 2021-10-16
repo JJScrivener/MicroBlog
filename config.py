@@ -1,6 +1,12 @@
 import os
+from flask import Flask
+from flask_login import LoginManager
+
+app = Flask(__name__)
+
 basedir = os.path.abspath(os.path.dirname(__file__))
 
+login = LoginManager(app)
 class Config(object):
     SECRET_KEY = os.environ.get('SECRET_KEY') or 'you-will-never-guess'
     SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL') or \
