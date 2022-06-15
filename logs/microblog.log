@@ -9,3 +9,7 @@
 2022-06-01 19:27:18,946 INFO: Microblog startup [in E:\darcy\Documents\Python Scripts\Microblog\MicroBlog\app\__init__.py:45]
 2022-06-01 19:28:12,119 INFO: Microblog startup [in E:\darcy\Documents\Python Scripts\Microblog\MicroBlog\app\__init__.py:45]
 2022-06-01 19:28:26,856 INFO: Microblog startup [in E:\darcy\Documents\Python Scripts\Microblog\MicroBlog\app\__init__.py:45]
+2022-06-15 20:27:15,689 INFO: Microblog startup [in /home/jen/Repos/MicroBlog/app/__init__.py:45]
+2022-06-15 20:28:38,329 INFO: Microblog startup [in /home/jen/Repos/MicroBlog/app/__init__.py:45]
+2022-06-15 20:29:07,840 INFO: Microblog startup [in /home/jen/Repos/MicroBlog/app/__init__.py:45]
+2022-06-15 20:30:13,175 INFO: Microblog startup [in /home/jen/Repos/MicroBlog/app/__init__.py:47]
